@@ -1,3 +1,4 @@
 a = 10
-b = 5
+b = 50
 print(a+b)
+print(a*b)
